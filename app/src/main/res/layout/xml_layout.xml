@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.flexbox.FlexboxLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:flexDirection="row"
+    app:justifyContent="space_around"
+    app:flexWrap="wrap">
+
+    <TextView
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="吃货"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="逗比" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="创业者" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="上班这点事" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="影视天堂" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="大学生活" />
+    <TextView
+        android:padding="6dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="单身狗" />
+    <TextView
+        android:padding="6dp"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="运动和健身" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="网购达人" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="旅游" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="程序员" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="追星族" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="短篇小说" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="美食" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="教育" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="教育" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:padding="6dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_text"
+        android:text="汪星人" />
+
+</com.google.android.flexbox.FlexboxLayout>

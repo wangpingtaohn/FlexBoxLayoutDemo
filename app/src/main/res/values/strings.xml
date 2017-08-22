@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlexBoxLayoutDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_code">CodeActivity</string>
+    <string name="title_activity_xml">XmlActivity</string>
+</resources>
